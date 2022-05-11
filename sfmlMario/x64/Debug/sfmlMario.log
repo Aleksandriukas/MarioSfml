@@ -1,0 +1,70 @@
+﻿  sfmlMario.cpp
+C:\Users\Aleksandr\Desktop\sfmlMario\sfmlMario\sfmlMario.cpp(72,24): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Aleksandr\Desktop\sfmlMario\sfmlMario\sfmlMario.cpp(72,20): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Aleksandr\Desktop\sfmlMario\sfmlMario\sfmlMario.cpp(74,1): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Aleksandr\Desktop\sfmlMario\sfmlMario\sfmlMario.cpp(75,1): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Aleksandr\Desktop\sfmlMario\sfmlMario\sfmlMario.cpp(89,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Aleksandr\Desktop\sfmlMario\sfmlMario\sfmlMario.cpp(96,1): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Aleksandr\Desktop\sfmlMario\sfmlMario\sfmlMario.cpp(113,14): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Aleksandr\Desktop\sfmlMario\sfmlMario\sfmlMario.cpp(114,15): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Aleksandr\Desktop\sfmlMario\sfmlMario\sfmlMario.cpp(142,25): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Aleksandr\Desktop\sfmlMario\sfmlMario\sfmlMario.cpp(150,26): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Aleksandr\Desktop\sfmlMario\sfmlMario\sfmlMario.cpp(175,23): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Aleksandr\Desktop\sfmlMario\sfmlMario\sfmlMario.cpp(175,20): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Aleksandr\Desktop\sfmlMario\sfmlMario\sfmlMario.cpp(177,1): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Aleksandr\Desktop\sfmlMario\sfmlMario\sfmlMario.cpp(189,1): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Aleksandr\Desktop\sfmlMario\sfmlMario\sfmlMario.cpp(204,14): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Aleksandr\Desktop\sfmlMario\sfmlMario\sfmlMario.cpp(205,15): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Aleksandr\Desktop\sfmlMario\sfmlMario\sfmlMario.cpp(214,26): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Aleksandr\Desktop\sfmlMario\sfmlMario\sfmlMario.cpp(255,14): warning C4244: 'initializing': conversion from 'sf::Int64' to 'float', possible loss of data
+C:\Users\Aleksandr\Desktop\sfmlMario\sfmlMario\sfmlMario.cpp(271,19): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Aleksandr\Desktop\sfmlMario\sfmlMario\sfmlMario.cpp(274,18): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Aleksandr\Desktop\sfmlMario\sfmlMario\sfmlMario.cpp(278,22): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Aleksandr\Desktop\sfmlMario\sfmlMario\sfmlMario.cpp(296,55): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Aleksandr\Desktop\sfmlMario\sfmlMario\sfmlMario.cpp(304,55): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Aleksandr\Desktop\sfmlMario\sfmlMario\sfmlMario.cpp(312,55): warning C4305: '=': truncation from 'double' to 'float'
+  sfmlMario.vcxproj -> C:\Users\Aleksandr\Desktop\sfmlMario\x64\Debug\sfmlMario.exe
